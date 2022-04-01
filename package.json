@@ -1,0 +1,25 @@
+{
+  "name": "unisircel-docker",
+  "version": "1.0.0",
+  "description": "DEVOPS Unsircle Interview and Testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glenn2206/unisircel-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glenn2206/unisircel-docker/issues"
+  },
+  "homepage": "https://github.com/glenn2206/unisircel-docker#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
